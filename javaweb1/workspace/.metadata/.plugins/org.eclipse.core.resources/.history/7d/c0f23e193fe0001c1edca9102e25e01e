@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<decorators defautldir = "/decorators">
+	<excludes>
+		<pattern>/404-page.html</pattern>
+		<pattern>/api*</pattern>
+		<pattern>/dang-nhap</pattern>
+	</excludes>
+</decorators>

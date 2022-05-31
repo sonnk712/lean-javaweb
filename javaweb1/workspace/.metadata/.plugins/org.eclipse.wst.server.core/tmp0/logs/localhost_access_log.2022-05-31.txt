@@ -1,0 +1,3 @@
+127.0.0.1 - - [31/May/2022:00:12:16 +0700] "GET / HTTP/1.1" 404 994
+0:0:0:0:0:0:0:1 - - [31/May/2022:00:12:44 +0700] "GET /laptrinhjavaweb/ HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [31/May/2022:00:12:45 +0700] "GET /laptrinhjavaweb/trang-chu;jsessionid=794E7F77E7734AE2AB1A062F81B13B76 HTTP/1.1" 200 150

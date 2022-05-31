@@ -1,0 +1,6 @@
+package laptrinhjavaweb.model;
+
+public class UserModel {
+	private String userName;
+	private String fullName;
+}
